@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.1, created on 2026-01-12 01:10:14
+/* Smarty version 4.3.1, created on 2026-01-12 03:42:35
   from 'app:frontendpagesuserRegister.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.1',
-  'unifunc' => 'content_69643be69a9fa1_72816607',
+  'unifunc' => 'content_69645f9b5f4b01_03013086',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'd49dc0801a97aaed7a39f9de90403c63b1cc8e43' => 
     array (
       0 => 'app:frontendpagesuserRegister.tpl',
-      1 => 1768176612,
+      1 => 1768185749,
       2 => 'app',
     ),
   ),
@@ -25,7 +25,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'app:frontend/components/registrationFormContexts.tpl' => 1,
   ),
 ),false)) {
-function content_69643be69a9fa1_72816607 (Smarty_Internal_Template $_smarty_tpl) {
+function content_69645f9b5f4b01_03013086 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_subTemplateRender("app:frontend/components/headerHead.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
 ?>
 
@@ -55,11 +55,11 @@ $_smarty_tpl->_subTemplateRender("app:frontend/components/headerHead.tpl", $_sma
 
 			<h2 style="
 				text-align:center;
-				color:#289753ff;
+				color:black;
 				font-weight:600;
 				margin-bottom:1.5rem;
 			">
-				Sign up
+				Register
 			</h2>
 
 			<?php $_smarty_tpl->_subTemplateRender("app:frontend/components/breadcrumbs.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array('currentTitleKey'=>"user.register"), 0, false);

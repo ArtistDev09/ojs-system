@@ -38,7 +38,7 @@
 
 			<h2 style="
 				text-align:center;
-				color:#289753ff;
+				color:black;
 				font-weight:600;
 				margin-bottom:1.5rem;
 			">
