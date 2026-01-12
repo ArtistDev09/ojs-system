@@ -38,11 +38,11 @@
 
 			<h2 style="
 				text-align:center;
-				color:black;
+				color:#289753ff;
 				font-weight:600;
 				margin-bottom:1.5rem;
 			">
-				Register
+				Sign up!
 			</h2>
 
 			{include file="frontend/components/breadcrumbs.tpl" currentTitleKey="user.register"}
