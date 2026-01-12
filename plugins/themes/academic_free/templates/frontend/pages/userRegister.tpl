@@ -42,7 +42,7 @@
 				font-weight:600;
 				margin-bottom:1.5rem;
 			">
-				Sign up
+				Register
 			</h2>
 
 			{include file="frontend/components/breadcrumbs.tpl" currentTitleKey="user.register"}
