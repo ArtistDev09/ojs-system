@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/themes/default-child/locale/en_US/locale.xml
+  *
+  * Copyright (c) 2014-2016 Simon Fraser University Library
+  * Copyright (c) 2003-2016 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings
+  -->
+
+<locale name="de_DE" full_name="German">
+<message key="plugins.themes.custom.name">Custom Theme</message>
+	<message key="plugins.themes.custom.description">Customizing Theme</message>
+	
+	
+	<message key="plugins.themes.custom.option.headingLabel">Heading</message>
+	<message key="plugins.themes.custom.option.headingDescription">Enter a custom heading / hero claim (see option 'Hero Header' below).</message>
+	<message key="plugins.themes.custom.option.positionJournalDescriptionLabel">Position Journal Description</message>
+	<message key="plugins.themes.custom.option.positionJournalDescriptionDescription">Enter position of journal description.</message>
+	<message key="plugins.themes.custom.option.positionJournalDescriptionAbove">Above Announcements</message>	
+	<message key="plugins.themes.custom.option.positionJournalDescriptionBelow">Below Announcements</message>	
+	<message key="plugins.themes.custom.option.positionJournalDescriptionOff">Don't show</message>	
+
+	<message key="plugins.themes.custom.option.colourHeadingLabel">Heading Colour</message>	
+	<message key="plugins.themes.custom.option.colourHeadingDescription">Choose the colour of the custom heading / hero claim.</message>	
+	
+	<message key="plugins.themes.custom.option.colourLinksLabel">Link Colour</message>	
+	<message key="plugins.themes.custom.option.colourLinksDescription">Choose the colour of links.</message>
+	
+	<message key="plugins.themes.custom.option.typeBorderLabel">Borders</message>
+	<message key="plugins.themes.custom.option.typeBorderDescription">Set borders.</message>
+	<message key="plugins.themes.custom.option.typeBorderOn">Default/On</message>
+	<message key="plugins.themes.custom.option.typeBorderVertical">Only vertical</message>	
+	<message key="plugins.themes.custom.option.typeBorderHorizontal">Only horizontal</message>	
+
+	<message key="plugins.themes.custom.option.colourFooterLabel">Footer Colour</message>	
+	<message key="plugins.themes.custom.option.colourFooterDescription">Choose background colour for the footer</message>		
+	
+	<message key="plugins.themes.custom.option.positionSidebarLabel">Sidebar Position</message>
+	<message key="plugins.themes.custom.option.positionSidebarDescription">Choose position of the sidebar.</message>
+	<message key="plugins.themes.custom.option.positionSidebarRight">Right</message>
+	<message key="plugins.themes.custom.option.positionSidebarLeft">Left</message>	
+
+	<message key="plugins.themes.custom.option.headerMobileLabel">Mobile Header</message>	
+	<message key="plugins.themes.custom.option.headerMobileDescription">Choose which header to keep for mobiles.</message>	
+	<message key="plugins.themes.custom.option.headerMobileLogo">Logo</message>	
+	<message key="plugins.themes.custom.option.headerMobileTitle">Custom Heading / Hero Claim</message>	
+
+	<message key="plugins.themes.custom.option.colourTextLabel">Text Colour</message>
+	<message key="plugins.themes.custom.option.colourTextDescription">Choose the colour of text.</message>
+
+	<message key="plugins.themes.custom.option.colourHeadlinesLabel">Colour h1 h2 h3</message>
+	<message key="plugins.themes.custom.option.colourHeadlinesDescription">Choose the colour of h1,h2,h3-headings.</message>
+
+	<message key="plugins.themes.custom.option.heroHeaderLabel">Hero Header</message>
+	<message key="plugins.themes.custom.option.heroHeaderDescription">Use homepage image as hero image.</message>
+	<message key="plugins.themes.custom.option.heroHeaderOff">Off</message>
+	<message key="plugins.themes.custom.option.heroHeaderOn">On</message>
+	
+	<message key="plugins.themes.custom.option.fontHeadlinesLabel">Font Headings</message>
+	<message key="plugins.themes.custom.option.fontHeadlinesDescription">Choose one of: Arial, Georgia, NotoSans, NotoSerif, FiraSans, SourceSansPro, Merriweather, MerriweatherSans, LinuxLibertine, LinuxBiolinum. </message>
+	
+	<message key="plugins.themes.custom.option.fontBodyLabel">Font Body</message>
+	<message key="plugins.themes.custom.option.fontBodyDescription">Choose one of: Arial, Georgia, NotoSans, NotoSerif, FiraSans, SourceSansPro, Merriweather, MerriweatherSans, LinuxLibertine, LinuxBiolinum. </message>
+
+	<message key="plugins.themes.custom.option.fontBaseLabel">Base Font Size</message>
+	<message key="plugins.themes.custom.option.fontBaseDescription">Enter only digits. Default is 14. Unit: px.</message>
+
+</locale>

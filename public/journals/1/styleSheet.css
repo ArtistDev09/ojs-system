@@ -1,0 +1,48 @@
+.read-more.btn-info {
+    background-color: #4caf50 !important;
+    border-color: #4caf50 !important;
+    border-radius: 10px;
+}
+
+.media-heading a {
+    color: #1b801e !important;
+    text-decoration: none !important;
+}
+
+.media-heading a:hover {
+    color: #124214 !important; /* optional darker green */
+    text-decoration: none !important; /* remove underline */
+}
+
+.app__header {
+    background:#14633E !important;
+    padding:10px !important;
+}
+
+.app__contextTitle {
+    font-size:22px !important;
+    color:#fff !important;
+}
+@media (max-width: 768px) {
+    /* Make the main wrapper a flex column on mobile */
+    .pkp_structure_main {
+        display: flex;
+        flex-direction: column;
+    }
+
+    /* Move the info block (sidebar) first */
+    .pkp_block {
+        order: 1;
+        margin-bottom: 20px;
+    }
+
+    /* Move the article list second */
+    .pkp_structure_content {
+        order: 2;
+    }
+}
+
+
+
+
+
